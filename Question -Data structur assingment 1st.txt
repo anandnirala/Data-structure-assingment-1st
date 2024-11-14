@@ -1,0 +1,15 @@
+Q1. Discuss string slicing and provide examples
+
+Q2. Explain the key features of lists in Python
+
+Q3. Describe how to access, modify, and delete elements in a list with examples
+
+Q4. Compare and contrast tuples and lists with examples
+
+Q5. Describe the key features of sets and provide examples of their use
+
+Q6. Discuss the use cases of tuples and sets in Python programming
+
+Q7. Describe how to add, modify, and delete items in a dictionary with examples
+
+Q8. Discuss the importance of dictionary keys being immutable and provide examples
